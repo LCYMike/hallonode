@@ -1,14 +1,3 @@
-// let argv = process.argv;
-// console.log('hallo wereld');
-// console.log(__dirname);
-// console.log(__filename);
-// console.log(process.env);
-// console.log(argv);
-
-// process.argv.forEach(function(val, index) {
-//     console.log(index + " : " + val);
-// });
-
 var devMode = process.argv;
 
 var total = 0;
